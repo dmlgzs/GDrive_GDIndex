@@ -40,7 +40,7 @@
 					href="https://github.com/maple3142/GDIndex"
 					target="_blank"
 				>
-					<v-icon>mdi-github-circle</v-icon>&nbsp;GitHub</v-btn
+					<v-icon>mdi-github-circle</v-icon>&nbsp;Powered by GDIndex</v-btn
 				>
 			</v-toolbar-items>
 		</v-app-bar>
